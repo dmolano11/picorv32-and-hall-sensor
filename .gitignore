@@ -1,0 +1,15 @@
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.webtalk/
+*.Xil/
+*.dmp
+*.xpr.user
+*.xpr.cache
+*.xpr.log
+*.vivado

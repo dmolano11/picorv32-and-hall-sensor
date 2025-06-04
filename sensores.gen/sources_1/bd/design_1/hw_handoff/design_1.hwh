@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Tue Jun  3 15:41:39 2025" VIVADOVERSION="2024.1">
+
+  <SYSTEMINFO ARCH="artix7" DEVICE="xa7a35t" NAME="design_1" PACKAGE="cpg236" SPEEDGRADE="-1I"/>
+
+  <EXTERNALPORTS/>
+
+  <EXTERNALINTERFACES/>
+
+  <MODULES/>
+
+</EDKSYSTEM>
