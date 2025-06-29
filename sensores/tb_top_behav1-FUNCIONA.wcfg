@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="6.130001 us"></ZoomEndTime>
+      <Cursor1Time time="9.624846 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="187"></NameColumnWidth>
+      <ValueColumnWidth column_width="112"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/tb_top/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/clk_cnt" type="array">
+      <obj_property name="ElementShortName">clk_cnt[15:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_cnt[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/resetn" type="logic">
+      <obj_property name="ElementShortName">resetn</obj_property>
+      <obj_property name="ObjectShortName">resetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/sensor1" type="logic">
+      <obj_property name="ElementShortName">sensor1</obj_property>
+      <obj_property name="ObjectShortName">sensor1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/sensor2" type="logic">
+      <obj_property name="ElementShortName">sensor2</obj_property>
+      <obj_property name="ObjectShortName">sensor2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/uart_tx" type="logic">
+      <obj_property name="ElementShortName">uart_tx</obj_property>
+      <obj_property name="ObjectShortName">uart_tx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/shift" type="array">
+      <obj_property name="ElementShortName">shift[9:0]</obj_property>
+      <obj_property name="ObjectShortName">shift[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/bit_cnt" type="array">
+      <obj_property name="ElementShortName">bit_cnt[4:0]</obj_property>
+      <obj_property name="ObjectShortName">bit_cnt[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_valid" type="logic">
+      <obj_property name="ElementShortName">mem_valid</obj_property>
+      <obj_property name="ObjectShortName">mem_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_instr" type="logic">
+      <obj_property name="ElementShortName">mem_instr</obj_property>
+      <obj_property name="ObjectShortName">mem_instr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/start_tx" type="logic">
+      <obj_property name="ElementShortName">start_tx</obj_property>
+      <obj_property name="ObjectShortName">start_tx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_ready" type="logic">
+      <obj_property name="ElementShortName">mem_ready</obj_property>
+      <obj_property name="ObjectShortName">mem_ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_wstrb" type="array">
+      <obj_property name="ElementShortName">mem_wstrb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_wstrb[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/ram_addr" type="array">
+      <obj_property name="ElementShortName">ram_addr[9:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_addr[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/ram_data" type="array">
+      <obj_property name="ElementShortName">ram_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/uart/ram_read_en" type="logic">
+      <obj_property name="ElementShortName">ram_read_en</obj_property>
+      <obj_property name="ObjectShortName">ram_read_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_addr" type="array">
+      <obj_property name="ElementShortName">mem_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_rdata" type="array">
+      <obj_property name="ElementShortName">mem_rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/trap" type="logic">
+      <obj_property name="ElementShortName">trap</obj_property>
+      <obj_property name="ObjectShortName">trap</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top/dut/cpu/mem_wdata" type="array">
+      <obj_property name="ElementShortName">mem_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_wdata[31:0]</obj_property>
+   </wvobject>
+</wave_config>
