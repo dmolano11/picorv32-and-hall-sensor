@@ -1,0 +1,2280 @@
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 125.00 us
+Dhrystones per second: 40000000.00
+DMIPS: 22766.08
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 128.00 us
+Dhrystones per second: 39062500.00
+DMIPS: 22232.50
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 131.00 us
+Dhrystones per second: 38167940.00
+DMIPS: 21723.36
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 129.00 us
+Dhrystones per second: 38759688.00
+DMIPS: 22060.15
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 130.00 us
+Dhrystones per second: 38461540.00
+DMIPS: 21890.46
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 205.00 us
+Dhrystones per second: 24390244.00
+DMIPS: 13881.75
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 125.00 us
+Dhrystones per second: 40000000.00
+DMIPS: 22766.08
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 127.00 us
+Dhrystones per second: 39370080.00
+DMIPS: 22407.56
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 125.00 us
+Dhrystones per second: 40000000.00
+DMIPS: 22766.08
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 128.00 us
+Dhrystones per second: 39062500.00
+DMIPS: 22232.50
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 125.00 us
+Dhrystones per second: 40000000.00
+DMIPS: 22766.08
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 129.00 us
+Dhrystones per second: 38759688.00
+DMIPS: 22060.15
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 298.00 us
+Dhrystones per second: 16778524.00
+DMIPS: 9549.53
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 282.00 us
+Dhrystones per second: 17730496.00
+DMIPS: 10091.35
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 125.00 us
+Dhrystones per second: 40000000.00
+DMIPS: 22766.08
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 129.00 us
+Dhrystones per second: 38759688.00
+DMIPS: 22060.15
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 129.00 us
+Dhrystones per second: 38759688.00
+DMIPS: 22060.15
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 125.00 us
+Dhrystones per second: 40000000.00
+DMIPS: 22766.08
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 126.00 us
+Dhrystones per second: 39682540.00
+DMIPS: 22585.40
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
+Dhrystone Benchmark Begins...
+Iteración 0
+Iteración 100
+Iteración 200
+Iteración 300
+Iteración 400
+Iteración 500
+Iteración 600
+Iteración 700
+Iteración 800
+Iteración 900
+Iteración 1000
+Iteración 1100
+Iteración 1200
+Iteración 1300
+Iteración 1400
+Iteración 1500
+Iteración 1600
+Iteración 1700
+Iteración 1800
+Iteración 1900
+Iteración 2000
+Iteración 2100
+Iteración 2200
+Iteración 2300
+Iteración 2400
+Iteración 2500
+Iteración 2600
+Iteración 2700
+Iteración 2800
+Iteración 2900
+Iteración 3000
+Iteración 3100
+Iteración 3200
+Iteración 3300
+Iteración 3400
+Iteración 3500
+Iteración 3600
+Iteración 3700
+Iteración 3800
+Iteración 3900
+Iteración 4000
+Iteración 4100
+Iteración 4200
+Iteración 4300
+Iteración 4400
+Iteración 4500
+Iteración 4600
+Iteración 4700
+Iteración 4800
+Iteración 4900
+Dhrystone Benchmark Finished!
+Total time: 127.00 us
+Dhrystones per second: 39370080.00
+DMIPS: 22407.56
+
+Execution ends
+
+Final values of the variables used in the benchmark:
+
+Int_Glob:            17
+Bool_Glob:           0
+Ch_1_Glob:           A
+Ch_2_Glob:           B
+Arr_1_Glob[8]:       7
+Arr_2_Glob[8][7]:    5010
+Ptr_Glob->Discr:     0
+Ptr_Glob->Enum_Comp: 2
+Ptr_Glob->Int_Comp:  5
+Ptr_Glob->String_Comp: DHRYSTONE PROGRAM, SOME STRING
+Int_1_Loc:           10
+Int_2_Loc:           13
+Int_3_Loc:           7
+Enum_Loc:            1
+Str_1_Loc:           DHRYSTONE PROGRAM, 1'ST STRING
+Str_2_Loc:           DHRYSTONE PROGRAM, 2'ND STRING
